@@ -1,5 +1,5 @@
 # Chromothripsis_Detection
-Detection of events like- Chromothripsis using the ShatterSeek tool from CNV and SV caller output files.
+Detection of events like- Chromothripsis from NGS data, using the ShatterSeek tool from CNV and SV caller output files.
 
 Install ASCAT (Allele-Specific Copy Number Analysis of Tumors), following instructions: https://github.com/VanLoo-lab/ascat
 
